@@ -1,16 +1,17 @@
-### Hi there 👋
+# Привет 👋 Я Алимжанов Билолидин
 
-<!--
-**invokise/invokise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Обо мне
 
-Here are some ideas to get you started:
+Увлекаюсь мобильной разработкой и системным анализом.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Навыки
+
+- **Языки программирования**: [Dart]
+- **Фреймворки и библиотеки**: [Flutter, BLoC, Provider, MobX, GetIt, SharedPreferences, Firebase]
+- **Базы данных**: [PostgreSQL, MySQL, MongoDB]
+- **Инструменты**: [Git, Docker, VMWare, Visual Studio Code, Android Studio]
+
+## 📫 Контакты
+
+- **Email**: junovevo89@gmail.com
+- **Telegram**: @invokis5
