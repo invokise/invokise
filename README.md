@@ -2,16 +2,17 @@
 
 ## 🚀 Обо мне
 
-Увлекаюсь мобильной разработкой и системным анализом.
+QA Mobile Engineer с 2+ годами опыта, активно перехожу в **Automation QA (Java)**.  
 
-## 🛠️ Навыки
+## 🛠️ Стек
 
-- **Языки программирования**: [Dart]
-- **Фреймворки и библиотеки**: [Flutter, BLoC, Provider, MobX, GetIt, SharedPreferences, Firebase]
-- **Базы данных**: [SQL, NoSQL]
-- **Инструменты**: [Git, Docker, VMWare, Vysor, Postman, Google Docs, Jira, Битрикс, Visual Studio Code, Android Studio]
-- **Нотации**: [BPMN, IDEF0]
-- **Диаграммы**: [UML, ER]
+| Область | Технологии |
+|---------|------------|
+| **Языки** | Java, Python, Dart, SQL |
+| **API** | REST Assured, Dio, Postman |
+| **Мобильное** | Android SDK, ADB, Charles Proxy |
+| **Инструменты** | Git, Docker, Jira, Qase, PostgreSQL, Postman |
+| **Фреймворки** | Flutter (BLoC, Provider, MobX), JUnit, Selenide, Appium |
 
 ## 📫 Контакты
 
