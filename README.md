@@ -2,7 +2,7 @@
 
 ## 🚀 Обо мне
 
-QA Mobile Engineer с 2+ годами опыта, активно перехожу в **Automation QA (Java)**.  
+QA Mobile Engineer с 2+ годами опыта, активно перехожу в **Automation QA**.  
 
 ## 🛠️ Стек
 
